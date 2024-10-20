@@ -2,8 +2,8 @@ import javax.swing.*;
 
 public class Shape {
     private String name;
-    
-    //Constructor w/ perimeter
+
+    //Constructor w/ parameter
     public Shape(String name){
         System.out.println("Calculating the Perimeter and Calculating the Area respectively...");
         name = "";
